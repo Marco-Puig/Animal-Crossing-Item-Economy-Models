@@ -40,8 +40,7 @@ pip install -r requirements.txt
 ```
 
 ### Dataset
-
-The dataset (`items.csv`) includes:
+The dataset comes from [Kaggle](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset?select=miscellaneous.csv) with (`items.csv`) containing:
 - **Item Name**: Name of the item.
 - **Stack Size**: Maximum items that can be carried in a single stack.
 - **Sell Price**: Bells received when sold.
