@@ -18,6 +18,10 @@ The notebook performs the following key tasks:
    - Identifies items that yield the best return on investment (ROI) for crafting or trading.
    - Highlights items with rare acquisition methods that are ideal for trading.
 
+## Models Overview
+![model1](https://github.com/user-attachments/assets/67c45915-669f-434d-8a50-004afc63a285)
+![model2](https://github.com/user-attachments/assets/051f7db7-ade5-4c1f-958d-5c8d2bf7623f)
+
 ## Getting Started
 
 ### Prerequisites
