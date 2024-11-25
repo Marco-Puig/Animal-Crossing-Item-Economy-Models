@@ -4,17 +4,15 @@ This repository contains models and data analysis pipelines designed to optimize
 
 ## Project Overview
 
-The notebook performs the following key tasks:
-
-1. **Data Loading and Cleaning**:
+**Data Loading and Cleaning**:
    - Loads the dataset containing details about in-game items such as stack size, selling price, crafting costs, and acquisition methods.
    - Cleans irregular values (e.g., `NFS` or missing values) and organizes distributions for further analysis.
 
-2. **Exploratory Data Analysis (EDA)**:
+**Exploratory Data Analysis (EDA)**:
    - Provides descriptive statistics for key item properties, including stack size, sell price, and miles cost.
    - Visualizes relationships and distributions to understand economic trends.
 
-3. **Optimization Models**:
+**Optimization Models**:
    - Identifies items that yield the best return on investment (ROI) for crafting or trading.
    - Highlights items with rare acquisition methods that are ideal for trading.
 
@@ -30,8 +28,8 @@ The notebook performs the following key tasks:
 - Required Python packages:
   - `pandas`
   - `matplotlib`
-  - `seaborn`
-  - Other libraries as mentioned in the notebook
+  - `seaborn` 
+  - `sklearn`
 
 Install dependencies using:
 
